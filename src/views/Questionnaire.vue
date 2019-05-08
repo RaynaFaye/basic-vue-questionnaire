@@ -10,7 +10,6 @@ export default {
   name: "questionnaire",
   data() {
     return {
-      componentChanged: "",
       componentLoaded: ""
     };
   },

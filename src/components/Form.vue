@@ -56,7 +56,6 @@ export default {
         inputTwo: this.inputTwo,
         inputRadio: this.inputRadio
       };
-      console.log(formData);
       this.$store.dispatch("changeQuestionnaireComponent");
     }
   }
